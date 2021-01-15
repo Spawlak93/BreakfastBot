@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakfastBot", "BreakfastBot\BreakfastBot.csproj", "{773E158B-AC06-4FFA-9883-7FF5EE830402}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{773E158B-AC06-4FFA-9883-7FF5EE830402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773E158B-AC06-4FFA-9883-7FF5EE830402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773E158B-AC06-4FFA-9883-7FF5EE830402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{773E158B-AC06-4FFA-9883-7FF5EE830402}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D6F6EF4-5635-4C34-B7C8-15FCC0F85C29}
+	EndGlobalSection
+EndGlobal
